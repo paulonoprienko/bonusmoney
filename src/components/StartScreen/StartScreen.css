@@ -1,0 +1,13 @@
+.start-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100dvh;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.start-logo {
+  width: var(--img-large);
+  aspect-ratio: 1;
+}
